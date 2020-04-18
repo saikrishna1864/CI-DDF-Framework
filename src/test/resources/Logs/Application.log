@@ -1,0 +1,23 @@
+[2020-04-18 23:02:27,170][          BaseClass.java][main][DEBUG] - About to start @BeforeSuite
+[2020-04-18 23:02:27,180][          BaseClass.java][main][DEBUG] - Browser is configured as chrome
+[2020-04-18 23:02:30,993][          BaseClass.java][main][DEBUG] - About to open chrome browser
+[2020-04-18 23:02:32,156][          BaseClass.java][main][DEBUG] - About to open the application under test
+[2020-04-18 23:02:33,211][          BaseClass.java][main][DEBUG] - Opened application under test
+[2020-04-18 23:02:33,318][    AddCustomerTest.java][main][DEBUG] - Reached first point of add customer test
+[2020-04-18 23:02:33,525][    AddCustomerTest.java][main][DEBUG] - Bank manager link is clicked
+[2020-04-18 23:02:33,529][    AddCustomerTest.java][main][DEBUG] - object for bhome has been created
+[2020-04-18 23:02:34,559][    AddCustomerTest.java][main][DEBUG] - true
+[2020-04-18 23:02:34,561][    AddCustomerTest.java][main][DEBUG] - add customer test assert is passed
+[2020-04-18 23:02:34,579][    AddCustomerTest.java][main][DEBUG] - add customer test alert is clicked
+[2020-04-18 23:02:40,185][    OpenAccountTest.java][main][DEBUG] - Stated execution of open account test
+[2020-04-18 23:02:40,185][    OpenAccountTest.java][main][DEBUG] - Clicked  on bank manager link
+[2020-04-18 23:02:40,186][    OpenAccountTest.java][main][DEBUG] - Created object for bhome for open account test
+[2020-04-18 23:02:45,362][          BaseClass.java][main][DEBUG] - CSS is the selector given
+[2020-04-18 23:02:48,715][BankManagerHomePage.java][main][DEBUG] - Customer selected
+[2020-04-18 23:02:48,716][          BaseClass.java][main][DEBUG] - CSS is the selector given
+[2020-04-18 23:02:51,836][BankManagerHomePage.java][main][DEBUG] - currency selected
+[2020-04-18 23:02:58,917][BankManagerHomePage.java][main][DEBUG] - Account created successfully with account Number :1016
+[2020-04-18 23:03:00,917][    OpenAccountTest.java][main][DEBUG] - true
+[2020-04-18 23:03:00,917][    OpenAccountTest.java][main][DEBUG] - true
+[2020-04-18 23:03:00,926][    OpenAccountTest.java][main][DEBUG] - open account test alert was accepted
+[2020-04-18 23:03:02,656][          BaseClass.java][main][DEBUG] - Closed the application
