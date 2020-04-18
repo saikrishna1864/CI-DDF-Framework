@@ -64,7 +64,7 @@ public class CustomTestListners extends BaseClass implements ITestListener
 	
 		
 		
-		captureScreenShot(result.getMethod().getMethodName());
+		captureStepError();
 		
 		//<font size="3" color="red">This is some text!</font>
 		
