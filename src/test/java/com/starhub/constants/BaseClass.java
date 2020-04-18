@@ -251,6 +251,7 @@ public class BaseClass
 			
 			captureStepError();
 			
+			log.debug("screenshot for test step has been captured");
 			
 			CustomTestListners.testreport.get().log(Status.FAIL, "Verification failed with execption :"+T.getMessage());
 			
